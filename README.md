@@ -1,3 +1,4 @@
+![Animation](https://github.com/user-attachments/assets/cab32fa0-d14b-40d8-8b5f-6468e263fbf6)
 
 Each service is a separate folder, and Kubernetes manifests are stored in the `infra/k8s` directory.
 
